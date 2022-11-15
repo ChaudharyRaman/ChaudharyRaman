@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raman Chaudhary A.K.A GANDHAR</h1>
+<h1 align="center">Hi 👋, I'm Raman A.K.A GANDHAR</h1>
 <h3 align="center">Nice To Meet You!</h3>
 
 - ⚡ Fun fact-- **Code is like humor. When you have to explain it, it’s bad**

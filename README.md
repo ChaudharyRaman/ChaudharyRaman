@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raman A.K.A GANDHAR</h1>
+<h1 align="center">Hi 👋, I'm Raman Chaudhary</h1>
 <h3 align="center">Nice To Meet You!</h3>
 
 
